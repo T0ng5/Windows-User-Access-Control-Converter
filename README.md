@@ -1,4 +1,4 @@
-# Windows_UAC_Convert
+# Convert-UACBV.ps1
 Converts the user access control bit vector of a user to human readable format
 
 #USAGE
